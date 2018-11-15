@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DXPivotGrid_XMLASupport/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXPivotGrid_XMLASupport/MainWindow.xaml))
+<!-- default file list end -->
 # How to: Bind to an OLAP Cube via XMLA
 
 
